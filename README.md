@@ -1,5 +1,7 @@
 # STM32 Project
 Interfacing DHT11 temperature sensor with STM32 microcontroller
+<img width="996" height="562" alt="image" src="https://github.com/user-attachments/assets/7ea742ae-97d6-417e-9069-664034313735" />
+
 
 # STM32 DHT11 Environmental Monitor
 
