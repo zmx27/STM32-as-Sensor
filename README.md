@@ -102,6 +102,10 @@ By using these bitmasks, the driver correctly controls the LCD's display and bac
 
 ***
 
+## Acknowledgement
+
+Adapted from the tutorial by Controllers Tech on a similar project [here](https://controllerstech.com/using-dht11-sensor-with-stm32/). All credit goes to them!
+
 ## 📞 Contact
 
 For questions or suggestions, feel free to reach out via email:
